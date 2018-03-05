@@ -1,24 +1,5 @@
-# README
+# Parte práctica exposición **Active Record**
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+En este repositorio se encuentra la parte práctica de la exposición sobre **Active Record** para la materia de Ingeniería de Software 2.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+La guía para desarrollar esta práctica se encuentra en el siguiente enlance: [[Guia_practica_active_record.pdf]]
